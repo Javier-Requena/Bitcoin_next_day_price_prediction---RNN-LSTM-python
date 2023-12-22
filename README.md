@@ -20,14 +20,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python">
+  <a href="https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Card payment fraud detector</h3>
 
   <p align="center">
-    Logistic classification model for the detection of fraudulent credit card payments
+    Forecasting Bitcoin's Price for the Following Day with RNN Models
     <br />
     <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python"><strong>Explore the docs »</strong></a>
     <br />
