@@ -20,21 +20,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python">
+  <a href="https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Card payment fraud detector</h3>
 
   <p align="center">
-    Logistic classification model for the detection of fraudulent credit card payments
+    Forecasting Bitcoin's Price for the Following Day with RNN Models
     <br />
-    <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python/issues">Report Bug</a>
+    <a href="https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Javier-Requena/card-payment-fraud-detector-python/issues">Request Feature</a>
+    <a href="https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues">Request Feature</a>
   </p>
 </div>
 
@@ -124,7 +124,7 @@ The Jupyter notebook is ready to be downloaded and executed.
     - [ ] Support Vector Classifier
     - [ ] Decision Tree Classifier
 
-See the [open issues](https://github.com/Javier-Requena/card-payment-fraud-detector-python/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,22 +162,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 **Javier Requena** - [GitHub](https://github.com/Javier-Requena) - javier.requena@protonmail.com
 
-Project Link: [https://github.com/Javier-Requena/card-payment-fraud-detector-python](https://github.com/Javier-Requena/card-payment-fraud-detector-python)
+Project Link: [https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python](https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Javier-Requena/card-payment-fraud-detector-python.svg?style=for-the-badge
-[contributors-url]: https://github.com/Javier-Requena/card-payment-fraud-detector-python/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Javier-Requena/card-payment-fraud-detector-python.svg?style=for-the-badge
-[forks-url]: https://github.com/Javier-Requena/card-payment-fraud-detector-python/forks
-[stars-shield]: https://img.shields.io/github/stars/Javier-Requena/card-payment-fraud-detector-python.svg?style=for-the-badge
-[stars-url]: https://github.com/Javier-Requena/card-payment-fraud-detector-python/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Javier-Requena/card-payment-fraud-detector-python.svg?style=for-the-badge
-[issues-url]: https://github.com/Javier-Requena/card-payment-fraud-detector-python/issues
-[license-shield]: https://img.shields.io/github/license/Javier-Requena/card-payment-fraud-detector-python.svg?style=for-the-badge
-[license-url]: https://github.com/Javier-Requena/card-payment-fraud-detector-python/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[contributors-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[forks-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/forks
+[stars-shield]: https://img.shields.io/github/stars/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[stars-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[issues-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues
+[license-shield]: https://img.shields.io/github/license/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[license-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/javier-requena-gonzalez/
 [graph]: images/graph.png
