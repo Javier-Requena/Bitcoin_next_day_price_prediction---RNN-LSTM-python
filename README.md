@@ -24,7 +24,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Card payment fraud detector</h3>
+<h3 align="center">Bitcoin Next-Day Price</h3>
 
   <p align="center">
     Forecasting Bitcoin's Price for the Following Day with RNN Models
@@ -69,11 +69,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, we have developed a model for detecting fraudulent credit card payments. To achieve this, we implemented a binary classifier using logistic regression, preceded by techniques for handling imbalanced data (undersampling). To conclude, we assessed the model's effectiveness using specific metrics.
+"In this project, our goal is to forecast the closing price of Bitcoin for the following day using data from the `yfinance` library. To accomplish this, we will implement the 'rolling windows' training technique and leverage two predictive models: SGDRegressor (machine learning) and a recursive neural network, RNN (deep learning), incorporating LSTM (Long Short-Term Memory)."
 
-The project will be expanded by employing different techniques for addressing imbalanced data (oversampling, SMOTE, etc.) and incorporating additional machine learning models with fine-tuned hyperparameter adjustments to maximize the efficacy of our model.
 
-<img src="images/graph.png" alt="Logo" width="500">
+<img src="images/graph.png" alt="Logo" width="800">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,6 +84,7 @@ The project will be expanded by employing different techniques for addressing im
 * [![Numpy][Numpy]][Numpy-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![ScikitLearn][Scikit]][Scikit-url]
+* [![TensorFlow][TensorFlow]][TensorFlow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,12 +94,16 @@ The project will be expanded by employing different techniques for addressing im
 ## Getting Started
 
 - images: a folder containing the images used in the Jupyter notebook and README.md.
-- credit_card_fraud_detector.ipynb: a Jupyter notebook that includes the entire project, along with markdown comments explaining the entire process.
+- Bitcoin_next_day_prediction.ipynb: a Jupyter notebook that includes the entire project, along with markdown comments explaining the entire process.
 - README.md: this file.
 
 ### Prerequisites
 
-It is essential to have the working dataset downloaded and ready: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+It is essential to have the yfinance library correctly installed. You can do so by:
+
+``pip install yfinance`` (using pip)
+
+``conda install -c conda-forge yfinance`` (using conda)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -114,15 +118,13 @@ The Jupyter notebook is ready to be downloaded and executed.
 ## Roadmap
 
 - [x] Initial Data Distribution Analysis
-- [x] Dealing with Imbalanced Data
-    - [x] Random undersampling techique
-    - [ ] Oversampling (SMOTE)
+- [x] Data cleansing
 - [x] Feature relation analysis
-- [x] Implementation of the classification model
-    - [x] Logistic Regression
-    - [ ] K-nearest Neighbors Classifier
-    - [ ] Support Vector Classifier
-    - [ ] Decision Tree Classifier
+- [x] Preparation of the final data for training
+- [x] Implementation of the regression model
+    - [x] SGDRegressor
+- [x] Implementation of the recursive neural network
+    - [x] LSTM
 
 See the [open issues](https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues) for a full list of proposed features (and known issues).
 
@@ -189,3 +191,5 @@ Project Link: [https://github.com/Javier-Requena/Bitcoin_next_day_price_predicti
 [Pandas-url]: https://pandas.pydata.org/
 [Scikit]: https://img.shields.io/badge/Scikit_Learn-373737?style=for-the-badge&logo=scikitlearn&logoColor=orange
 [Scikit-url]: https://scikit-learn.org/stable/
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-4f4f73?style=for-the-badge&logo=tensorflow
+[TensorFlow-url]: https://www.tensorflow.org/
